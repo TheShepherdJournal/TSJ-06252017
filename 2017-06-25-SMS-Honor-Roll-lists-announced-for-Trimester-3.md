@@ -8,7 +8,7 @@ published: true
 ---
 # SMS Honor Roll lists announced for Trimester 3
 
-*From the **[Shepherd Middle School Facebook Pag*e](https://www.facebook.com/sms.shepherdmi/)*:*
+*From the [Shepherd Middle School Facebook Page](https://www.facebook.com/sms.shepherdmi/)*:
 
 Our Trimester 3 Honor Roll lists are attached. For a student to be on the honor roll list, he or she must earn a trimester GPA of 3.0 or above. Congratulations to all Honor Roll students!
 
