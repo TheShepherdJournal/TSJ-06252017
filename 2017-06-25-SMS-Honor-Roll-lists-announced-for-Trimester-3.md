@@ -12,11 +12,11 @@ published: true
 
 Our Trimester 3 Honor Roll lists are attached. For a student to be on the honor roll list, he or she must earn a trimester GPA of 3.0 or above. Congratulations to all Honor Roll students!
 
-![image alt text]({{ site.url }}/public/3W42Oir0Nvi2SVKzpfLQ_img_0.png)
+![image alt text](/public/3W42Oir0Nvi2SVKzpfLQ_img_0.png)
 
-![image alt text]({{ site.url }}/public/3W42Oir0Nvi2SVKzpfLQ_img_1.png)
+![image alt text](/public/3W42Oir0Nvi2SVKzpfLQ_img_1.png)
 
-![image alt text]({{ site.url }}/public/3W42Oir0Nvi2SVKzpfLQ_img_2.png)
+![image alt text](/public/3W42Oir0Nvi2SVKzpfLQ_img_2.png)
 
 https://docs.google.com/document/d/19YnVH2rjVCU5Cm_bDYngL7_AodsCeJN9eenZ1reTPnk/edit?usp=sharing
 
