@@ -9,4 +9,6 @@
 
 ---
 
-News compiled from the Shepherd Online site at http://www.shepherdhistory.org.
+Website: http://www.shepherdhistory.org
+Facebook: https://www.facebook.com/shepherdjournal/
+Email: editor@shepherdhistory.org
