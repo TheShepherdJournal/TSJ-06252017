@@ -13,4 +13,4 @@ Website: http://www.shepherdhistory.org
 
 Facebook: https://www.facebook.com/shepherdjournal/
 
-Email: editor@shepherdhistory.org
+Email: [editor@shepherdhistory.org](mailto:editor@shepherdhistory.org)
