@@ -6,3 +6,7 @@
 
 ![](public/100_2386.JPG)
 
+
+---
+
+News compiled from the Shepherd Online site at http://www.shepherdhistory.org.
