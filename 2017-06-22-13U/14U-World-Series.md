@@ -10,7 +10,9 @@ published: true
 
 *Front Row L to R: Coach Scott Miller, Colten Horn, Drew Funnell, Cole McMullin, Colten Miller, Kevin Tanner, Al Warner. Back Row L to R: Coach Mitch McMullin, Coach Josh Russell, Jacob Recker, Christian Wang, Carson VanBuskirk, Gage Beckner, Logan Wundirluck, Konnor Moore, Coach Brian Warner and Coach Jim Wundirluck. *
 
-## Local travel baseball team Oil City Stags to complete in 13U/14U World Series
+---
+
+# Local travel baseball team Oil City Stags to complete in 13U/14U World Series
 
 In July, the travel baseball team Oil City Stags will be competing in the 13U/14U World Series which will take place in Struthers, Ohio. OC Stags player and Shepherd Middle School student Konnor Moore shared some thoughts about the upcoming competition:
 
