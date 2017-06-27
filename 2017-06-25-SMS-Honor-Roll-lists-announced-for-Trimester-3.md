@@ -6,7 +6,7 @@ permalink: /sms-honor-roll-lists-announced-for-trimester-3/
 source-id: 19YnVH2rjVCU5Cm_bDYngL7_AodsCeJN9eenZ1reTPnk
 published: true
 ---
-SMS Honor Roll lists announced for Trimester 3
+# SMS Honor Roll lists announced for Trimester 3
 
 *From the **[Shepherd Middle School Facebook Pag*e](https://www.facebook.com/sms.shepherdmi/)*:*
 
