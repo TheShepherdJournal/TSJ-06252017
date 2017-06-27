@@ -10,5 +10,7 @@
 ---
 
 Website: http://www.shepherdhistory.org
+
 Facebook: https://www.facebook.com/shepherdjournal/
+
 Email: editor@shepherdhistory.org
